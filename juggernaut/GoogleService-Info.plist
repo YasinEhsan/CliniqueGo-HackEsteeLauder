@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>389036370366-lcm4lg81id0oc74ccom2un2jnrt1475c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.389036370366-lcm4lg81id0oc74ccom2un2jnrt1475c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZnlK6pFFKBGmWf494BKK1SS-ECspwO0k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>389036370366</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yasinehsan.juggernaut</string>
+	<key>PROJECT_ID</key>
+	<string>juggernaut-team-2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>juggernaut-team-2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:389036370366:ios:52768ff4c5ee166e83f1ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://juggernaut-team-2.firebaseio.com</string>
+</dict>
+</plist>
