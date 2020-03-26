@@ -1,5 +1,10 @@
 # Clinique Go
 
+**Overview**
+- This was my 14th Hackathon. This is my most accomplished hackathon project. 
+- I led all efforts on Firebase backend to talk between the client and kiosk iOS apps we built. 
+- [My Final Demo (Youtube)](https://www.youtube.com/watch?v=vZXprBz4NVY)
+
 **About:** Foster environment sustainability by helping users recycle their Clinique products for points used to redeem other products. This ultimiately helps Estee Lauder to collect data of the types of products users recyle and buy, to give better suggestions and reccommendations, in order to increase sales and incoming revenue. 
 
 **Built With:** Swift, Xcode, Zeplin, Google Cloud, Firebase, Microsoft Machine Learning Studio, Apple Core ML Image, Tensor Flow 
