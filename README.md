@@ -1,17 +1,5 @@
 # Clinique Go
 
-## [Video Walkthrough](https://drive.google.com/file/d/186iKkMPAmOIDWOxen3DyC_GoTLCzSnVN/view)
-<div style="display: inline-block;">
-  <div style="display: inline-block;">
-  <img src="Mockup6.png"  width="200">
-  <img src="Mockup8.png"  width="200">
-  <img src="Mockup10.png"  width="200">
-<!--   <img src="t5.png"  width="200"> -->
-  <!-- <img src="assets/"  width="295"> -->
-  <!-- <img src="assets/"  width="400"> -->
-</div><br/>
-![g1](FILENAME.gif)
-
 **Overview**
 - This was my 14th Hackathon. This is my most accomplished hackathon project. 
 - I led all efforts on Firebase backend to talk between the client and kiosk iOS apps we built. 
@@ -23,6 +11,16 @@
 
 **Frameworks:** UIKit, MapKit, CoreLocation, FlyoverKit, UserNotifications, EventKit, Contacts, Firebase, Parse, Authentication
 
+## [Video Walkthrough](https://drive.google.com/file/d/186iKkMPAmOIDWOxen3DyC_GoTLCzSnVN/view)
+<div style="display: inline-block;">
+  <div style="display: inline-block;">
+  <img src="Mockup6.png"  width="200">
+  <img src="Mockup8.png"  width="200">
+  <img src="Mockup10.png"  width="200">
+<!--   <img src="t5.png"  width="200"> -->
+  <!-- <img src="assets/"  width="295"> -->
+  <!-- <img src="assets/"  width="400"> -->
+</div><br/>
 
 ## Stand-Ups / Milestones
 - [x] (Design) Wireframes
