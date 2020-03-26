@@ -1,7 +1,7 @@
 # Clinique Go
 
 **Overview**
-- This was my 14th Hackathon. This is my most accomplished hackathon project. 
+- This was my 14th Hackathon. Amongst my prevoius hackathons, this is the most accomplished, complete tech-stack.
 - I led all efforts on Firebase backend to talk between the client and kiosk iOS apps we built. 
 - [My Final Demo (Youtube)](https://www.youtube.com/watch?v=vZXprBz4NVY)
 
