@@ -1,0 +1,6 @@
+framework module Pods_juggernautTests {
+  umbrella header "Pods-juggernautTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
